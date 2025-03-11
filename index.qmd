@@ -1,7 +1,7 @@
 ---
 title: "**Bem-vindo(a) ao meu Website!**"
 author: "Maria Leonor Almeida"
-date: "08/03/2025"
+date: "03/08/2025"
 format: html
 ---
 
@@ -11,7 +11,7 @@ format: html
 Sou estudante do 1º Ano de Saúde Digital e Inovação Biomédica e este é o meu primeiro **Website Pessoal** 
 
 
-
+<div class="section-card">
 ## About me...
 
 <img src="Imagens/fotoDePerfil.jpg" class="img-left">
@@ -29,3 +29,4 @@ Sou estudante do 1º Ano de Saúde Digital e Inovação Biomédica e este é o m
 
 <a href="https://sigarra.up.pt/fmup/pt/fest_geral.cursos_list?pv_num_unico=202405796" class="botao-personalizado">SIGARRA</a>
 
+</div>
