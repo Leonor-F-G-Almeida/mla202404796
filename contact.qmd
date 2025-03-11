@@ -1,0 +1,26 @@
+
+
+---
+title: "Contactos"
+format: html
+---
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    let cards = document.querySelectorAll(".projeto-card");
+    cards.forEach((card, index) => {
+        setTimeout(() => {
+            card.classList.add("aparecer");
+        }, index * 300);
+    });
+});
+</script>
+
+<div class="section-card">
+# ✉️ Contactos 
+<a href="mailto:up202405796@up.pt" class="botao-email">📩 Enviar E-mail</a>
+
+<div class="botao-projeto">
+<a href="https://github.com/Leonor-F-G-Almeida" class="botao-projeto"> 💻 GITHUB</a>
+</div>
+

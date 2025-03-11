@@ -1,0 +1,31 @@
+---
+title: "**Bem-vindo(a) ao meu Website!**"
+author: "Maria Leonor Almeida"
+date: "08/03/2025"
+format: html
+---
+
+
+
+# Olá! O meu nome é Maria Leonor Almeida
+Sou estudante do 1º Ano de Saúde Digital e Inovação Biomédica e este é o meu primeiro **Website Pessoal** 
+
+
+
+## About me...
+
+<img src="Imagens/fotoDePerfil.jpg" class="img-left">
+
+
+- Sou estudante na **Faculdade de Medicina da Universidade do Porto** 🎓  
+
+- Tenho interesse em **Saúde Digital e Inovação Biomédica** 🖊️  
+
+- Gosto de trabalhar com **tecnologia na área da Saúde** 👩🏻‍💻  
+
+
+
+
+
+<a href="https://sigarra.up.pt/fmup/pt/fest_geral.cursos_list?pv_num_unico=202405796" class="botao-personalizado">SIGARRA</a>
+

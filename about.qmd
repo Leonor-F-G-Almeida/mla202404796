@@ -1,0 +1,32 @@
+
+---
+title: "**Currículo**"
+format: html
+---
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    let cards = document.querySelectorAll(".projeto-card");
+    cards.forEach((card, index) => {
+        setTimeout(() => {
+            card.classList.add("aparecer");
+        }, index * 300);
+    });
+});
+</script>
+
+
+# **O meu Currículo Atual**
+
+<div class="section-card">
+## 📚 Formação Académica
+- **Saúde Digital e Inovação Biomédica** - Faculdade de Medicina da Universidade do Porto (2024 - 2027)
+- **Mestrado Integrado em Medicina** – Faculdade de Medicina da Universidade da Beira Interior (2022-2024) 
+  (*Concluí dois anos do curso antes de seguir uma nova direcção académica*)
+</div>
+
+<div class="section-card">
+## 🧪  Projetos 
+- Colaboração no Projeto de autoria da **Professora Doutora Inês Falcão Pires** – Faculdade de Medicina da Universidade do Porto 
+Atualmente envolvido no desenvolvimento de um projeto no âmbito do **Projeto de Ideias**, criado para os alunos de Saúde Digital e Inovação Biomédica, focado em *"Otimização de um método de extração e quantificação de cortisol capilar para avaliar o stress académico numa população estudantil"*.
+</div>
+

@@ -1,0 +1,34 @@
+
+---
+title: "Projetos"
+format: html
+---
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    let cards = document.querySelectorAll(".projeto-card");
+    cards.forEach((card, index) => {
+        setTimeout(() => {
+            card.classList.add("aparecer");
+        }, index * 300);
+    });
+});
+</script>
+
+
+# ✍🏻 **Projetos**
+
+
+Estes são os projetos nos quais trabalhei recentemente:
+<div class="section-card">
+## 📊 **Projeto IDUS**
+- **Descrição:** Projeto elaborado com base na necessidade de transformação da maturidade digital, recorrendo à avaliação do **Índice Digital da Saúde** (IDS).
+- **Cadeira:** Medicina Clínica e Serviços de Saúde I.
+</div>
+
+<div class="section-card">
+## 💻 **Monitorização de Pacientes Internados numa UCI**
+- **Descrição:** Criação de um Sistema automatizado de monitorização de pacientes nas **Unidades de Cuidados Intensivos**.
+- **Recursos:** Java.
+- **Cadeira:** Programação I.
+</div>

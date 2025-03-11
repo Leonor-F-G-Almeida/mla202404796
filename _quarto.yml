@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "WebSite Pessoal"
+  navbar:
+    left:
+      - href: index.qmd
+        text: PÁGINA INICIAL
+
+      - href: about.qmd
+        text: CURRÍCULO
+
+      - href: projects.qmd
+        text: PROJETOS
+
+      - href: contact.qmd
+        text: CONTATOS
+      
+
+format:
+  html:
+    title-block-banner: true
+    title-block-logo: "Logofmup.jpg"
+    toc: true
+    toc-depth: 2
+    toc-location: left
+
+  
+
+    theme:
+      - united
+      - brand
+    css: styles.css
+    
