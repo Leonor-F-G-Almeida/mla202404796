@@ -1,0 +1,3 @@
+[build]
+command = "curl -fsSL https://quarto.org/docs/download/linux-amd64.sh | bash && quarto render"
+publish = "_site"
